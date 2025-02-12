@@ -10,17 +10,13 @@ Apart from coding, I'm a fitness enthusiast 🏋️‍♀️
 
 - 👀 **Interests:** Software Development, Technology, Fitness
 - 🌱 **Currently Learning:** JavaScript
-- 💞️ **Looking to Collaborate On:** Projects involving HTML, CSS, Bootstrap, JavaScript, and SQL
+- 💞️ **Looking to Collaborate On:** Projects involving HTML, CSS, Bootstrap, JavaScript and SQL
 - 🎯 **Goals:** To continually improve my skills and contribute to meaningful projects
 
 ## Connect with Me
 
 Let's connect and collaborate!
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/claudia-detata" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
   <a href="https://discordapp.com/users/1159120358318813284" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Profile-7289DA?style=for-the-badge&logo=discord" alt="Discord">
   </a>
