@@ -34,7 +34,7 @@ Let's connect and collaborate!
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-Thanks for visiting my profile! Feel free to explore my repositories and connect with me on LinkedIn or Discord.
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me by sending me an email at <strong>detatacl@gmail.com</strong> .
 
 
 <!---
